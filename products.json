@@ -1,0 +1,17 @@
+{
+    "0001": {
+        "brand": "Innocent",
+        "price": 2.50,
+        "flavour": "orange"
+    },
+    "0002": {
+        "brand": "Peroni",
+        "price": 5.50,
+        "flavour": "beer"
+    },
+    "0003": {
+        "brand": "Crisps",
+        "price": 1.50,
+        "flavour": "prawn coctail"
+    }
+}
